@@ -19,6 +19,7 @@ library(ggplot2)
 steps <- tapply(data$steps, data$date, FUN=sum, na.rm=TRUE)
 qplot(steps, binwidth=1000, xlab="total number of steps")
 mean(steps, na.rm=TRUE)
+median(steps,na.rm = TRUE)
 ```
 --------------------------------------------
 ## The average daily activity pattern
