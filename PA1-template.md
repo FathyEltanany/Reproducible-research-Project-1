@@ -2,6 +2,7 @@
 Fathy Eltanany  
 June 13, 2017  
 
+## plots in the repo in case it doesn't appear 
 Reproducible Research: Course Project 1
 =================================================
 ## Loading Data
